@@ -30,5 +30,5 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # ProjectPokemonAPI
 
-# Bienvenue sur le projet Pokemon API
+## Bienvenue sur le projet Pokemon API
 Le but de ce projet est de faire des appels API sur POKEAPI afin de récupérer les informations sur les différents Pokemon en Vue.js
